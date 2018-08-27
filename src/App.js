@@ -5,7 +5,8 @@ import './App.css'
 import Match from './Match'
 import SummonerForm from './SummonerForm'
 
-const url = 'http://localhost:9000/matches/'
+const url = 'https://salty-meadow-50579.herokuapp.com/matches/'
+//https://salty-meadow-50579.herokuapp.com/
 
 class App extends React.Component {
   constructor(props) {
